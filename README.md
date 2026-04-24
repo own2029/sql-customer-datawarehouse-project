@@ -1,2 +1,2 @@
-# sql-data-warehouse-jproject
+# sql-data-warehouse-project
 Building a modern data warehuose project with mysql, including ETL process, data modeling, analytics
